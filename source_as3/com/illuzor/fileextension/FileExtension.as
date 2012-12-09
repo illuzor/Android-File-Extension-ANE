@@ -6,7 +6,7 @@ package com.illuzor.fileextension {
 	
 	/**
 	 * ...
-	 * @author illuzor  //  illuzor@gmail.com  //  illuzor.com
+	 * @author illuzor
 	 */
 	
 	public class FileExtension {
