@@ -1,1 +1,1 @@
-﻿com.illuzor.extensions.FileExtension
+com.illuzor.extensions.FileExtension
