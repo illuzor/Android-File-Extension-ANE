@@ -6,7 +6,7 @@ Features:
 
 	- open local file in native application. Can open any file type.
 	
-Important! Be shure, that you are using latest version of AIR SDK. This ANE builded for 4.0
+Important! Be shure, that you are using latest version of AIR SDK. This ANE builded for 14.0
 	
 How to use:
 
