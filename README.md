@@ -4,9 +4,9 @@ Native Extension for Adobe AIR
 
 Features:
 
-	- open local file in native application. Can open any file type.
+	- open local file in native application. Allows to open any file type.
 	
-Important! Be shure you are using latest version of AIR SDK. This ANE builded for 18
+Important! Be shure you are using latest version of AIR SDK. This ANE builded for 21
 	
 How to use:
 
